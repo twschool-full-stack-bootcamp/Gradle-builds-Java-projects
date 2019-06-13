@@ -1,12 +1,16 @@
-# Gradle构建Java项目
+# Building a Java Project by Gradle
 
-## 练习内容
-1.用Gradle命令行构建Java项目
-2.用Gradle编译Java项目
-3.用Gradle运行自动化测试
-4.给Gradle添加idea插件，并生成Intellj Idea的项目文件
-5.用Gradle运行程序输出“This is a Gradle Project”到命令行
-6.添加Mockito依赖，并在测试方法中简单使用Mockito,使测试通过
+## Business Requirement
+
+Get to know what is Gradle and build a java project with Gradle step by step and then use gradle add new java library dependence to your project.
+
+## Practice Requirement
+1. Use Gradle command line to build Java project 
+2. Use Gradle to compile Javap project
+3. Use Gradle run automatic test
+4. Use Gradle to add ideaplug-in, and generate Intellj Idea project files
+5. Use Gradle to run program to output "This is a Gradle Project" to command line
+6. Add Mockito dependence and simply use Mockito in test method to get test passed 
 ```
     @Test
     public void testMockClass() throws Exception {
@@ -21,3 +25,8 @@
 
     }
 ```
+
+## Practice Output
+- Please push this gradle project to a new repository named **first-gradle-java-project** in your Github.
+- Commit your repostory link to complete this Question..
+
