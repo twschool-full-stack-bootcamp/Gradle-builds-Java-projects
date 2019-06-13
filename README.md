@@ -27,6 +27,6 @@ Get to know what is Gradle and build a java project with Gradle step by step and
 ```
 
 ## Practice Output
-- Please push this gradle project to a new repository named **first-gradle-java-project** in your Github.
+- Please push the gradle project to your Github
 - Commit your repostory link to complete this Question..
 
